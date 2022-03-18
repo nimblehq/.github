@@ -1,9 +1,7 @@
 <p align="center">
   <a href="https://nimblehq.co/"><img src="https://assets.nimblehq.co/logo/dark/logo-dark-text-320.png" /></a>
-  <h2 align="center">Nimble</h2>
+  <h2 align="center">We build outstanding software with expertise and passion</h2>
 </p>
-
-<p align="center">We build outstanding software with expertise and passion</p>
 
 <p align="center">
   <a href="https://nimblehq.co/services/">What We Do</a>
