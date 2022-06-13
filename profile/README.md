@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://nimblehq.co/"><img src="https://assets.nimblehq.co/logo/dark/logo-dark-text-320.png" /></a>
+  <a href="https://nimblehq.co/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://assets.nimblehq.co/logo/dark/logo-dark-text-320.png">
+      <img alt="Nimble logo" src="https://assets.nimblehq.co/logo/light/logo-light-text-320.png">
+    </picture>    
+  </a>
   <h2 align="center">We build outstanding software with expertise and passion</h2>
 </p>
 
