@@ -5,7 +5,7 @@
       <img alt="Nimble logo" src="https://assets.nimblehq.co/logo/light/logo-light-text-320.png">
     </picture>    
   </a>
-  <h2 align="center">We build outstanding software with expertise and passion</h2>
+  <h2 align="center">We create long term impact through technology</h2>
 </p>
 
 <p align="center">
